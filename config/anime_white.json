@@ -1,0 +1,7 @@
+{
+    "path": "data/monogatari_white",
+    "tags_and": ["monogatari_(series)", "white_background"],
+    "tags_or": [],
+    "ratings": ["general", "sensitive"],
+    "file_url_priority": ["large_file_url", "file_url"]
+}
