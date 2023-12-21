@@ -2,6 +2,8 @@
 
 The goal of the project is to implement pix2pix GAN model and Neural Optimal Transport using the same backbone (UNet with `base_width = 48`) and compare them on self-collected datasets of real-world images (Corgi dogs and anime).
 
+## GAN
+
 ![alt text](pic/corgi_flickr_disloss0.02_genlr0.0002_dislr2e-05_batch8_epoch83.png)
 
 FID = 162.9
@@ -10,9 +12,19 @@ FID = 162.9
 
 FID = 115.7
 
-https://wandb.ai/marina_shesha/CV_third_time
-
 https://wandb.ai/xiyori/pix2pix_corgi_flickr
+
+## NOT
+
+![alt text](pic/2023-12-21_22-29.png)
+
+FID = 357.5
+
+![alt text](pic/2023-12-21_22-28.png)
+
+FID = 241.8
+
+https://wandb.ai/marina_shesha/CV_third_time
 
 ### Installation
 
